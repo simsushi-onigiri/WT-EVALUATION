@@ -25,7 +25,7 @@ Ionicon
 
 ``` css
 --bg-white: hsla(0, 0%, 100%, 1);
---bg-dark gray: #929494 hsla(240, 1%, 83%, 1);
+--bg-dark gray: #929494 hsla(200, 1%, 87%, 1);
 --bg-jet: hsla(0, 0%, 18%, 1);
 --bg-eerie-black: hsla(0, 0%, 13%, 1);
 --bg-rich-black-fogra-29: hsla(229, 23%, 9%, 1);
